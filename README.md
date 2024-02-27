@@ -6,7 +6,7 @@
   <a href="https://t.me/imashurade">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>  
   </a>
-  <a href="[www.linkedin.com/in/павел-дойков-73357a29a](https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%B4%D0%BE%D0%B9%D0%BA%D0%BE%D0%B2-73357a29a/)">
+  <a href="https://www.linkedin.com/in/%D0%BF%D0%B0%D0%B2%D0%B5%D0%BB-%D0%B4%D0%BE%D0%B9%D0%BA%D0%BE%D0%B2-73357a29a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
