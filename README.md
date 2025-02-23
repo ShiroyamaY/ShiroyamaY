@@ -1,23 +1,45 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Backend+Developer|Laravel"/>
-<div class="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmR3bjEwY2M3aG0wcGkzNHBvM2VpZ290enBtejR5YzhyM3g2eXA2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oz8xGHvL9ujXGUaLS/giphy.gif" width="100" />
-  <div id="badges">
-    <a href="https://t.me/imashurade">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>  
-    </a>
-    <a href="https://www.linkedin.com/in/pavel-doykov-73357a29a/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=ShiroyamaY&style=flat-square&color=blue" alt=""/>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></br>
-  <div>
-    <ul>
-      <h3>My tech:</h3>
-      <li>PHP</li>
-      <li>Laravel</li>
-      <li>MySql</li>
-      <li>Html,CSS,Js</li>
-    </ul>
-  </div>
-</div>
+# Hi :alien:
+
+![backend|Laravel](https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&lines=Backend+Developer|Laravel)
+
+![sigma-programer-d](images/hunter-x-hunter-anime-killua-zoldyck-wallpaper-preview.jpg)
+
+## About me :snowman:
+
+I have been
+interested in learning something new. My passion is
+programming.
+
+I had been writing in C# and ASP.NET Core since high school. At the moment I'm and writing in
+Laravel, Mysql, HTML, CSS stack and aiming to learn Vue JS soon.
+
+It is a great way to spend my time and develop my
+skills.
+
+## Digital Skills :star2:
+
+- HTML / CSS
+- JavaScript / TypeScript / jQuery / Alpine.js
+- Laravel / CodeIgniter / Phalcon
+- MySql / PostgreSql / Redis
+- PHP / C# / Java
+- Docker
+- Git
+
+### Currently studying :books:
+
+- Golang
+- Spring
+
+### I want to learn :pushpin:
+
+- Rust
+- Kafka
+- MongoDB / Memcached
+- Symfony
+
+## Contact me :wave:
+
+[![telegram](https://camo.githubusercontent.com/69b7b6030a30665b957a3eebb39d7bdddcaad33688b7642631a95916486f61b6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465)](https://t.me/imashurade)
+
+[![linkedin](https://camo.githubusercontent.com/7c2145551dc29c09205720b1acea43652035cc0f1eb46278acc400f1c1fc59a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/pavel-doykov-73357a29a/)
